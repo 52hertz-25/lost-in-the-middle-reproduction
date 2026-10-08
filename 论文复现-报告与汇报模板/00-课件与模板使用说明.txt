@@ -1,0 +1,21 @@
+课程资料使用说明 · 2026-09-22
+
+本周编程：下载 W01-学生实践包.zip，完整解压，打开 nlp_w01/学生实践手册.ipynb。
+尚未安装Jupyter时先用浏览器打开学生实践手册.html，按第0节安装。HTML是只读说明，不能执行代码。
+Notebook依赖同目录的程序和data文件夹，请勿只下载或复制.ipynb文件。
+完成后在延河课堂上传程序生成的W01_学号.zip，并完成5道个人测验，均于9月22日24:00前提交。
+
+课堂复习：W01-课堂课件离线包.zip解压后，用浏览器打开index.html。
+该包含投影片、候选论文、提交规范、报告模板和PPT模板；本地文件可离线阅读，论文原文、下载和平台链接需要联网。
+投影时空格、右方向键或“下一步”逐项显示，完成本页后翻页；左方向键逐项退回。可用“显示全部”“重播本页”，连续阅读和打印始终显示全文。分组登记链接请进入延河课堂查看。
+课堂课件与模板.zip为兼容原链接保留的同一份完整离线包。
+
+论文项目：论文复现-报告与汇报模板.zip解压后，先读requirements.html。
+report-template.html用于阅读报告结构；report-template.md是可编辑的Markdown模板，可据此在自己的文档工具中写作，最终交report.pdf。
+presentation-template.pptx是7页可编辑的学生汇报模板，请替换占位内容，最终同时交slides.pptx和slides.pdf。
+候选论文36篇-标题与链接.txt只有标题与链接，以Tab分隔；限定复现任务在papers.html中，选题必须同时阅读该页要求。
+四人一组；11月22日24:00前在延河课堂统一提交项目最终包；11月24日或12月1日按安排汇报，每组8分钟。
+
+课程主页：https://nlp.hltbit.top/2026/
+资料与下载：https://nlp.hltbit.top/2026/materials/w01/classroom/materials.html
+课程平台：https://yanhekt.cn/
